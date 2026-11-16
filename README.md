@@ -1,6 +1,6 @@
 # Load Balancing Using Kubernetes Services
 
-KLE Technological University | Cloud Computing Lab Evaluation 2 | Problem 03
+KLE Technological University | Cloud Computing Lab Evaluation 2 | Problem 3
 
 
 ## 1. Objective
